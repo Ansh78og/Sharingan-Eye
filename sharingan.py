@@ -4,6 +4,13 @@ import numpy as np
 import math
 import time
 
+"""
+======================================
+🌀 Sharingan Eye Tracker
+💻 Coded by Ansh
+======================================
+"""
+
 mp_face = mp.solutions.face_detection
 face = mp_face.FaceDetection(0.7)
 
@@ -96,6 +103,14 @@ while True:
     screen_center = (width // 2, height // 2)
 
     dx, dy = 0, 0
+
+    """
+======================================
+🌀 Sharingan Eye Tracker
+💻 Coded by Ansh
+======================================
+"""
+
 
     if results.detections:
         for detection in results.detections:
