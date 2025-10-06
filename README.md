@@ -40,5 +40,18 @@ The **Sharingan Eye** project brings anime-style visual effects to real life usi
    pip install opencv-python numpy
    python sharingan.py
 
+## 🗂️ Project Structure
+   ```markdown
+   ## 
+   Sharingan-Eye/
+   │
+   ├── .git/ # Git configuration folder
+   ├── README.md # Project documentation
+   ├── sharingan.py # Main Python script
+   ├── shh.jpg # Background or overlay image
+   └── top.png # Sharingan eye texture
+
+
+
 
 
