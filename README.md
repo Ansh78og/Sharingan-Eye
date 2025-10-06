@@ -41,17 +41,16 @@ The **Sharingan Eye** project brings anime-style visual effects to real life usi
    python sharingan.py
 
 ## 🗂️ Project Structure
-   ```markdown
-   ## 
+
+   ```bash
    Sharingan-Eye/
    │
    ├── .git/ # Git configuration folder
    ├── README.md # Project documentation
    ├── sharingan.py # Main Python script
    ├── shh.jpg # Background or overlay image
-   └── top.png # Sharingan eye texture
+   └── top.png # Sharingan eye texture.
 
 
-
-
+      
 
