@@ -16,7 +16,7 @@ The **Sharingan Eye** project brings anime-style visual effects to real life usi
 
 ## 🧠 Tech Stack
 
-- **Python 3.10** - MUST FOR USE IT MALFUNTIONS ON 3.12 SOMETIMES
+- **Python 3.10** - MUST FOR USE IT MALFUNCTIONS ON 3.12 SOMETIMES
 - **OpenCV** – for face and eye tracking  
 - **NumPy** – for matrix operations  
 - **MediaPipe** – for advanced facial landmarks  
